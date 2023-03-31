@@ -1,7 +1,7 @@
 <template>
     <h2 class="display-6 text-primary text-center mb-4">Ils ont kiffé</h2>
     <div class="row g-3">
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-lg-4">
             <div class="card rounded-4 shadow h-100">
                 <div class="card-header bg-primary text-white fw-bold">Simplon</div>
                 <div class="d-flex card-body">
@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-lg-4">
             <div class="card rounded-4 shadow h-100">
                 <div class="card-header bg-primary text-white fw-bold">Moovjee</div>
                 <div class="d-flex card-body">
@@ -29,7 +29,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-lg-4">
             <div class="card rounded-4 shadow h-100">
                 <div class="card-header bg-primary text-white fw-bold">Simplon</div>
                 <div class="d-flex card-body">

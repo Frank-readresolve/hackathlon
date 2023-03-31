@@ -1,6 +1,6 @@
 <template>
-    <header class="bg-primary sticky-top shadow-sm mb-4">
-        <nav class="container-xxl navbar navbar-expand-md navbar-dark">
+    <header class="bg-primary sticky-top shadow mb-4">
+        <nav class="container-xxl navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
                 <RouterLink :to="{ name: 'home' }" class="navbar-brand">Hackathlon</RouterLink>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-main">

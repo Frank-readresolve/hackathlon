@@ -13,7 +13,7 @@ export default {
     <div class="row">
         <div class="col-12 col-lg-5">
             <div class="row">
-                <div class="col-6 col-lg-12">
+                <div class="col-12">
                     <div class="d-flex">
                         <i class="bi bi-calendar text-primary me-2 fs-3"></i>
                         <div class="pt-1">
@@ -26,8 +26,8 @@ export default {
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-12">
-                    <hr class="text-secondary d-none d-lg-block">
+                <div class="col-12">
+                    <hr class="text-secondary">
                     <div class="d-flex mb-3">
                         <i class="bi bi-geo-alt-fill text-primary me-2 fs-3"></i>
                         <address class="text-nowrap pt-1">

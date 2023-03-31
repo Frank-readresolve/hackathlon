@@ -32,7 +32,7 @@
                     <a href="https://pinterest.com" rel="noreferrer nofollow" target="_blank" class="text-secondary fs-4"><i
                             class="bi bi-pinterest" title="Pinterest"></i></a>
                 </div>
-                <div class="text-secondary fw-light">Copyright ©2023 Hackathlon. Tous droits réservés.</div>
+                <div class="text-secondary fw-light">©2023 Hackathlon.</div>
             </div>
         </div>
     </footer>

@@ -10,10 +10,10 @@ export default {
   <div class="container-xxl">
     <h1 class="display-6 mb-4">CONTACTEZ-NOUS</h1>
     <div class="row align-items-center">
-      <main class="col-12 col-md-7 mb-4 mb-md-0">
+      <main class="col-12 col-lg-7 mb-4 mb-lg-0">
         <ContactForm />
       </main>
-      <aside class="col-12 col-md-5 mb-4 mb-md-0">
+      <aside class="col-12 col-lg-5 mb-4 mb-lg-0">
         <ContactAside />
       </aside>
     </div>

@@ -16,9 +16,9 @@
                 <div class="mb-2 text-center">
                     <i class="bi bi-people-fill text-primary fs-4"></i>
                 </div>
-                <h3 class="text-center text-primary fw-light fs-4">PARTICIPANTS</h3>
+                <h3 class="text-center text-primary fw-light fs-4">TOTAL</h3>
                 <hr class="text-light">
-                <div class="text-primary text-center fs-1">29</div>
+                <div class="text-primary text-center fs-1">25</div>
             </div>
         </div>
         <div class="col-6 col-lg-3">
@@ -26,9 +26,9 @@
                 <div class="mb-2 text-center">
                     <i class="bi bi-briefcase-fill text-primary fs-4"></i>
                 </div>
-                <h3 class="text-center text-primary fw-light fs-4">PORTEURS</h3>
+                <h3 class="text-center text-primary fw-light fs-4">BIZ</h3>
                 <hr class="text-light">
-                <div class="text-primary text-center fs-1">10</div>
+                <div class="text-primary text-center fs-1">7</div>
             </div>
         </div>
         <div class="col-6 col-lg-3">
@@ -36,9 +36,9 @@
                 <div class="mb-2 text-center">
                     <i class="bi bi-file-earmark-code-fill text-primary fs-4"></i>
                 </div>
-                <h3 class="text-center text-primary fw-light fs-4">DÉVELOPPEURS</h3>
+                <h3 class="text-center text-primary fw-light fs-4">DÉV</h3>
                 <hr class="text-light">
-                <div class="text-primary text-center fs-1">19</div>
+                <div class="text-primary text-center fs-1">18</div>
             </div>
         </div>
         <div class="col-6 col-lg-3">
