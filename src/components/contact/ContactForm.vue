@@ -56,11 +56,11 @@ export default {
 </script>
 <template>
     <form class="row g-4" @submit.prevent="">
-        <div class="col-5">
+        <div class="col-12 col-md-5">
             <label for="firstName" class="form-label">Prénom</label>
             <input type="text" class="form-control" id="firstName">
         </div>
-        <div class="col-7">
+        <div class="col-12 col-md-7">
             <label for="lastName" class="form-label">Nom</label>
             <input type="text" class="form-control" id="lastName">
         </div>
@@ -71,11 +71,11 @@ export default {
                 <input type="text" class="form-control" id="email">
             </div>
         </div>
-        <div class="col-8">
+        <div class="col-12 col-md-8">
             <label for="company" class="form-label">Entreprise</label>
             <input type="text" class="form-control" id="company">
         </div>
-        <div class="col-4">
+        <div class="col-12 col-md-4">
             <label for="companySize" class="form-label">Taille</label>
             <select class="form-select" id="companySize">
                 <option selected disabled>Sélectionner...</option>

@@ -15,7 +15,7 @@ export default {
             <div class="row">
                 <div class="col-12">
                     <div class="d-flex">
-                        <i class="bi bi-calendar text-primary me-2 fs-3"></i>
+                        <i class="bi bi-calendar text-primary me-4 fs-3"></i>
                         <div class="pt-1">
                             <strong>Avril 2023</strong>
                             <ol class="list-unstyled mb-0">
@@ -29,7 +29,7 @@ export default {
                 <div class="col-12">
                     <hr class="text-secondary">
                     <div class="d-flex mb-3">
-                        <i class="bi bi-geo-alt-fill text-primary me-2 fs-3"></i>
+                        <i class="bi bi-geo-alt-fill text-primary me-4 fs-3"></i>
                         <address class="text-nowrap pt-1">
                             <strong>Simplon.co</strong><br>
                             14 rue de la Beaune<br>
@@ -42,7 +42,7 @@ export default {
         </div>
         <div class="col-12 col-lg-7">
             <div class="ratio ratio-16x9 border rounded-2 shadow-sm">
-                <iframe loading="lazy" :src="mapsUrl" title="Carte de géolocalisant Simplon.co"></iframe>
+                <iframe loading="lazy" :src="mapsUrl" title="Carte de géolocalisation Simplon.co"></iframe>
             </div>
         </div>
     </div>
