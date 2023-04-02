@@ -84,8 +84,8 @@ export default {
         </div>
         <div class="col-12">
             <label for="address" class="form-label">Adresse</label>
-            <input @keyup="search" @blur="hideAddresses" v-model.trim="query" type="search" autocomplete="off"
-                class="form-control" id="address" placeholder="Commencez à taper...">
+            <input @keyup="search" @blur="hideAddresses" v-model.trim="query" type="search" class="form-control"
+                id="address" placeholder="Commencez à taper...">
             <div id="matched-addresses" class="position-relative">
                 <ul class="list-group position-absolute w-100 shadow-sm" v-if="addresses.length">
                     <a href="#" v-for="address in addresses" :key="address.id"
